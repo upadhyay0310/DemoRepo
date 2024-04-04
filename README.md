@@ -1,3 +1,3 @@
 # DemoRepo
-This is demo repo
+This is demo repo.
 Author - Prakash Upadhyay
